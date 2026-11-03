@@ -130,33 +130,19 @@ Exploring agentic systems that can plan, execute tasks, interact with tools, mai
 - Human-in-the-loop decision systems.
 - Custom agent harnesses and extensible architectures.
 
-## Model Context Protocol (MCP) & Integrations
+## 🔌 Model Context Protocol (MCP) & Integrations
 
-Exploring Model Context Protocol and API-driven integrations to connect AI agents with external applications, databases, development tools and information sources.
+Experience working with MCP-based connectivity and API-driven integrations across AI agents, development environments, financial data services, databases, research platforms and automation infrastructure.
 
-| Integration | Application |
-|---|---|
-| GitHub | Repository access, code management and development workflows. |
-| Filesystem | Local file operations and workspace access. |
-| Playwright | Browser automation and application testing. |
-| Notion | Documentation and knowledge management. |
-| PostgreSQL | Structured data and database connectivity. |
-| Web Search | Research and information retrieval. |
-| n8n | Workflow automation and external service orchestration. |
-| And a Lot More |Too many to list here... |
+**Selected Integrations:**
 
-
-**Core interests:** MCP server development, tool interoperability, custom integrations and reusable agent capabilities.
-
-Areas of exploration:
-
-- Event-driven automation.
-- API orchestration.
-- Scheduled execution.
-- AI-assisted workflow generation.
-- Automated development pipelines.
-- Multi-agent task coordination.
-
+- **Development & Code Intelligence:** GitHub, Filesystem, Playwright, Computer Use, Context7, REA and docvet (Python documentation linting).
+- **Financial Data & Market Intelligence:** Market History, TickerLayer Market Data and PostgreSQL.
+- **Agent Collaboration & Memory:** SwarmMemo Bulletin, Synapse Memory, Notion and monday.com.
+- **Automation & Orchestration:** n8n, Web Search and external API integrations.
+- **Hosting & Deployment:** xhostd Hosting.
+  
+**Technical Focus:** MCP integrations, API orchestration, tool interoperability, quantitative market data connectivity, code intelligence, browser and computer automation, persistent agent memory, multi-agent communication and workflow orchestration, and AI-driven application deployment.
 
 # 🌐 Web Development · Digital Experiences & Technical Skills
 
