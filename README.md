@@ -238,7 +238,102 @@ Skills :
 
 > Some work is private, experimental, or still evolving. Public repositories are the best place to explore work that is available to share.
 
-# 🛠️ Tools & Technologies Stack
+
+
+
+ <h1 align="center"> 🛠️ Tools & Technologies Stack</h1>
+
+<div align="center">
+
+<table align="center">
+  <tr>
+    <td align="center" width="16%">
+      <img src="https://cdn.simpleicons.org/python/3776AB" width="42" height="42" alt="Python"/><br/>Python
+    </td>
+    <td align="center" width="16%">
+      <img src="https://cdn.simpleicons.org/typescript/3178C6" width="42" height="42" alt="TypeScript"/><br/>TypeScript
+    </td>
+    <td align="center" width="16%">
+      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="42" height="42" alt="JavaScript"/><br/>JavaScript
+    </td>
+    <td align="center" width="16%">
+      <img src="https://cdn.simpleicons.org/react/61DAFB" width="42" height="42" alt="React"/><br/>React
+    </td>
+    <td align="center" width="16%">
+      <img src="https://cdn.simpleicons.org/vite/646CFF" width="42" height="42" alt="Vite"/><br/>Vite
+    </td>
+    <td align="center" width="16%">
+      <img src="https://cdn.simpleicons.org/fastapi/009688" width="42" height="42" alt="FastAPI"/><br/>FastAPI
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/git/F05032" width="42" height="42" alt="Git"/><br/>Git
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/github/FFFFFF" width="42" height="42" alt="GitHub"/><br/>GitHub
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/mongodb/47A248" width="42" height="42" alt="MongoDB"/><br/>MongoDB
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="42" height="42" alt="PostgreSQL"/><br/>PostgreSQL
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/pydantic/E92063" width="42" height="42" alt="Pydantic"/><br/>Pydantic
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/html5/E34F26" width="42" height="42" alt="HTML5"/><br/>HTML5
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+     width="42" height="42" alt="CSS3"/><br/>CSS 3
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="42" height="42" alt="Node.js"/><br/>Node.js
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+     width="42" height="42" alt="VS Code"/><br/>VS Code
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/wordpress/21759B" width="42" height="42" alt="WordPress"/><br/>WordPress
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/markdown/FFFFFF" width="42" height="42" alt="Markdown"/><br/>Markdown
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="42" height="42" alt="Tailwind CSS"/><br/>Tailwind CSS
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/shadcnui/FFFFFF" width="42" height="42" alt="shadcn/ui"/><br/>shadcn/ui
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/tradingview/2962FF" width="42" height="42" alt="TradingView"/><br/>TradingView Charts
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/vercel/FFFFFF"
+     width="42" height="42" alt="Vercel"/><br/>Vercel
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="42" height="42" alt="Cloudflare"/><br/>Cloudflare Pages
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="42" height="42" alt="Cloudflare"/><br/>Cloudflare Workers
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<!--# 🛠️ Tools & Technologies Stack 
 
 <div align="center">
 
@@ -267,7 +362,7 @@ Skills :
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-183B56?style=for-the-badge&logo=cloudflare&logoColor=F38020)
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-183B56?style=for-the-badge&logo=cloudflare&logoColor=F38020)
 
-</div>
+</div> -->
 
 ### Current Technology Interests
 
