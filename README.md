@@ -154,11 +154,12 @@ Interested in designing, developing and deploying modern web applications with a
 
 Technical capabilities include:
 
-- **Frontend Development:** React 19, TypeScript, JavaScript (ES6+), Vite and component-based application architecture.
+- **Frontend Development:** React 19, TypeScript, JavaScript (ES6+), HTML5, CSS3, Vite and component-based application architecture.
 - **UI & Styling:** Tailwind CSS v4, shadcn/ui, responsive layouts and reusable UI components.
 - **Backend Development:** Python, FastAPI, REST API development, Pydantic v2 and JSON data processing.
 - **Databases & Data Management:** MongoDB, PostgreSQL, database modelling, CRUD operations and data validation.
 - **Web Integration:** REST APIs, third-party services, LLM APIs, OpenRouter, MCP integrations and dynamic data handling.
+- **CMS & E-commerce:** WordPress, website integration, content management and e-commerce website development.
 - **AI & Automation:** AI agent integration, model routing and automated development workflows.
 - **Deployment & DevOps:** Git, GitHub, Vercel, Cloudflare Pages, Cloudflare Workers, GitHub Actions and npm build workflows.
 - **Performance & Security:** Asset optimization, HTTP headers, Content Security Policy (CSP), asset protection and deployment security.
@@ -252,7 +253,12 @@ Skills :
 ![MongoDB](https://img.shields.io/badge/MongoDB-183B56?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-183B56?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![Pydantic](https://img.shields.io/badge/Pydantic-183B56?style=for-the-badge&logo=pydantic&logoColor=E92063)
-
+![HTML5](https://img.shields.io/badge/HTML5-183B56?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-183B56?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Node.js](https://img.shields.io/badge/Node.js-183B56?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![VS Code](https://img.shields.io/badge/VS_Code-183B56?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![WordPress](https://img.shields.io/badge/WordPress-183B56?style=for-the-badge&logo=wordpress&logoColor=21759B)
+![Markdown](https://img.shields.io/badge/Markdown-183B56?style=for-the-badge&logo=markdown&logoColor=FFFFFF)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-183B56?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-183B56?style=for-the-badge&logo=shadcnui&logoColor=FFFFFF)
 ![TradingView](https://img.shields.io/badge/TradingView_Charts-183B56?style=for-the-badge&logo=tradingview&logoColor=2962FF)
